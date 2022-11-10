@@ -1,4 +1,3 @@
-
 package com.dodatkowe;
 
 public class AdditionalTask {
@@ -138,4 +137,3 @@ class AerialVehicles extends Vehicle{
         System.out.println("I fly in the because I'm a "+name);
     }
 }
-
